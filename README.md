@@ -1,4 +1,4 @@
-# Hi! 👋 I'm [Nikola Selic](https://selich.github.io/)
+# Hi! 👋 I'm [Nikola Selic](https://github.com/Selich)
 
 Haskell, Python, React.js, Tensorflow, Deep Learning, Federated Learning, ETL, Lambda Calculus, Category Theory 
 
