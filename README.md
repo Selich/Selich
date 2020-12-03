@@ -2,7 +2,7 @@
 
 I'm a Data Engineer and Web Developer
 
-## \lambda Github Stats
+## λ Github Stats
 
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=white)
 
