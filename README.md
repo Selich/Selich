@@ -3,7 +3,7 @@
 Haskell, Python, React.js, C++, Tensorflow, Deep Learning, Federated Learning, ETL, Lambda Calculus, Category Theory 
 
 
-Vim, Linux, i3wm, Nix 💻
+Neovim, Arch Linux, i3wm, Nix 💻
 
 ### λ Github Stats
 
