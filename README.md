@@ -1,13 +1,21 @@
 # Hi! 👋 I'm [Nikola Selic](https://github.com/Selich)
 
 CS: Parallel Computing, Machine Learning, Deep Learning, Federated Learning, ETL
+
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
+
 DB: PostgreSQL, AWS DynamoDB, GraphQL
+
 OS: Arch Linux, Nix OS, Windows
+
 WEB: React.js, Redux, Django, Flask, Spring
+
 OPS: AWS, Nginx, Airflow, Travis CI, Docker, Git
+
 CODE: Python, Haskell, Javascript, Java, C++, Bash
+
 GEAR: Thinkpad T460s
+
 
 Neovim, Arch Linux, i3wm, Nix 💻
 
