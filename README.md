@@ -1,6 +1,6 @@
 # Hi! 👋 I'm [Nikola Selic](https://selich.github.io/)
 
-Haskell, Python, React.js, Deep Learning, Federated Learning, ETL, Lambda Calculus, Category Theory 
+Haskell, Python, React.js, Tensorflow, Deep Learning, Federated Learning, ETL, Lambda Calculus, Category Theory 
 
 
 Vim, Linux, i3wm, Nix 💻
