@@ -1,6 +1,6 @@
 # Hi! 👋 I'm [Nikola Selic](https://github.com/Selich)
 
-CS: Parallel Computing, Machine Learning, Deep Learning, Federated Learning, ETL
+CS: Parallel Computing, Deep Learning, Transfer Learning, Federated Learning, ETL
 
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
 
