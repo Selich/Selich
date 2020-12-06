@@ -1,5 +1,5 @@
 # Hi! 👋 I'm [Nikola Selic](https://github.com/Selich)
-
+```
 CS: Parallel Computing, Deep Learning, Transfer Learning, Federated Learning, ETL
 
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
@@ -15,7 +15,7 @@ OPS: AWS, Nginx, Airflow, Travis CI, Docker, Git
 CODE: Python, Haskell, Javascript, Java, C++, Bash
 
 GEAR: Thinkpad T460s
-
+```
 
 Neovim, Arch Linux, i3wm, Nix 💻
 
