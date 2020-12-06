@@ -12,7 +12,7 @@
 
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=white)
 
-### Gear
+### Info
 
 ```
 CS: Parallel Computing, Deep Learning, Transfer Learning, Federated Learning, ETL
