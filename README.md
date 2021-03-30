@@ -4,10 +4,10 @@ A senior bachelor student with a research interest in Distributed Computing and 
 
 ### 🌏 Let's Connect 🔗
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=F80384)](https://www.linkedin.com/in/n-selic/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=F80384)](https://twitter.com/_selich_)
-[![](https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=F80384)](https://www.kaggle.com/selich)
-[![](https://img.shields.io/badge/researchgate-%230077B5.svg?&style=for-the-badge&logo=researchgate&logoColor=white&color=F80384)](https://www.researchgate.net/profile/Nikola-Selic)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=8956E4)](https://www.linkedin.com/in/n-selic/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=8956E4)](https://twitter.com/_selich_)
+[![](https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=8956E4)](https://www.kaggle.com/selich)
+[![](https://img.shields.io/badge/researchgate-%230077B5.svg?&style=for-the-badge&logo=researchgate&logoColor=white&color=8956E4)](https://www.researchgate.net/profile/Nikola-Selic)
 
 
 ### λ Github Stats
