@@ -1,4 +1,4 @@
-# Hi! 👋 I'm [Nikola Selic](https://github.com/Selich)
+# Hey hey! 👋 I'm [Nikola Selic](https://github.com/Selich)
 
 A senior bachelor student with a research interest in Distributed Computing and Machine Learning, and some topics in High-Performance Computing, Graph Theory, Game Theory, Programming Language Design, and Mathematical Logic, specifically Category Theory and Lambda Calculus. Currently, I am mostly interested in the allocation of Multi-machine parallelism in large-scale model processing.
 
@@ -14,9 +14,9 @@ A senior bachelor student with a research interest in Distributed Computing and 
 
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
 
-### Info
+### :computer: Info
 
-```
+
 CS: Parallel Computing, Deep Learning, Transfer Learning, Distributed Systems, Federated Learning, ETL
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
 DB: PostgreSQL, AWS DynamoDB, GraphQL
@@ -25,7 +25,7 @@ WEB: React.js, Redux, Flask, Spring
 OPS: AWS (S3, Cognito), Nginx, Airflow, Travis CI, Docker, Git, Jenkins
 CODE: Python, Haskell, Typescript, Golang, Bash
 GEAR: Thinkpad T460s
-```
+
 
 
 
