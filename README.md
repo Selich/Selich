@@ -1,6 +1,8 @@
 # Hey hey! 👋 I'm [Nikola Selic](https://github.com/Selich)
 
-A senior bachelor student with a research interest in Distributed Computing and Machine Learning, and some topics in High-Performance Computing, Graph Theory, Game Theory, Programming Language Design, and Mathematical Logic, specifically Category Theory and Lambda Calculus. Currently, I am mostly interested in the allocation of Multi-machine parallelism in large-scale model processing.
+A senior bachelor student with a research interest in Distributed Computing and Machine Learning, and some topics in High-Performance Computing, Graph Theory, Game Theory, Programming Language Design, and Mathematical Logic, specifically Category Theory and Lambda Calculus. 
+
+Currently, I am mostly interested in the allocation of Multi-machine parallelism in large-scale model processing.
 
 ### 🌏 Let's Connect 🔗
 
