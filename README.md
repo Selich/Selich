@@ -14,11 +14,12 @@ A senior bachelor student with a research interest in Distributed Computing and 
 
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
 
-### :computer: Info
-
+### :computer: Skills
 
 CS: Parallel Computing, Deep Learning, Transfer Learning, Distributed Systems, Federated Learning, ETL
+
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
+
 DB: PostgreSQL, AWS DynamoDB, GraphQL
 OS: Arch Linux, Nix OS
 WEB: React.js, Redux, Flask, Spring
