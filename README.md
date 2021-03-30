@@ -12,7 +12,7 @@ A senior bachelor student with a research interest in Distributed Computing and 
 
 ### λ Github Stats
 
-![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=black)
+![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
 
 ### Info
 
