@@ -19,13 +19,13 @@ Currently, I am mostly interested in the allocation of Multi-machine parallelism
 ### :computer: Skills
 
 ```
-CS: Parallel Computing, Deep Learning, Transfer Learning, Distributed Systems, Federated Learning, ETL
+CS  Deep Learning, Transfer Learning, Distributed Systems, Federated Learning, Web 3.0
 ML: Keras, Tensorflow, Pandas, Numpy, CUDA
 DB: PostgreSQL, AWS DynamoDB, GraphQL
 OS: Arch Linux, Nix OS
 WEB: React.js, Redux, Flask, Spring
 OPS: AWS (S3, Cognito), Nginx, Airflow, Travis CI, Docker, Git, Jenkins
-CODE: Python, Haskell, Typescript, Golang, Bash
+CODE: Typescript, Python, Golang, Solidity, Haskell, Bash
 GEAR: Thinkpad T460s
 ```
 
