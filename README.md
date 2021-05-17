@@ -14,7 +14,6 @@ Currently, I am mostly interested in the allocation of Multi-machine parallelism
 
 
 ### λ Github Stats
-![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selich&theme=dark)
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
 
 ### :computer: Skills
