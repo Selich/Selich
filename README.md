@@ -10,12 +10,3 @@ Currently, I am mostly interested in the allocation of Multi-machine parallelism
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=8956E4)](https://twitter.com/_selich_)
 [![](https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=8956E4)](https://www.kaggle.com/selich)
 [![](https://img.shields.io/badge/researchgate-%230077B5.svg?&style=for-the-badge&logo=researchgate&logoColor=white&color=8956E4)](https://www.researchgate.net/profile/Nikola-Selic)
-
-<a href="https://stackoverflow.com/users/9184156/nikola-selic"><img src="https://stackoverflow.com/users/flair/9184156.png" width="208" height="58" alt="profile for Nikola Selic at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nikola Selic at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-
-
-### λ Github Stats
-![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
-
-
