@@ -18,18 +18,4 @@ Currently, I am mostly interested in the allocation of Multi-machine parallelism
 ### λ Github Stats
 ![Nikola Selic's Github Stats](https://github-readme-stats.vercel.app/api?username=Selich&theme=dark)
 
-### :computer: Skills
-
-```
-CS  Deep Learning, Transfer Learning, Distributed Systems, Federated Learning, Web 3.0
-ML: Keras, Tensorflow, Pandas, Numpy, CUDA
-DB: PostgreSQL, AWS DynamoDB, GraphQL
-OS: Arch Linux, Nix OS
-WEB: React.js, Redux, Flask, Spring
-OPS: AWS (S3, Cognito), Nginx, Airflow, Travis CI, Docker, Git, Jenkins
-CODE: Typescript, Python, Golang, Solidity, Haskell, Bash
-GEAR: Air M1, Thinkpad T460s
-```
-
-
 
