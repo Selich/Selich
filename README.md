@@ -1,4 +1,4 @@
-# Hey hey! 👋 I'm [Nikola Selic](https://github.com/Selich)
+# Hey hey! 👋 I'm [Nikola Selic](https://nikolaselic.com/)
 
 Research interest in Distributed Computing and Machine Learning, and some topics in High-Performance Computing, Federated Learning and Blockchain.
 
