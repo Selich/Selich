@@ -4,6 +4,8 @@ Research interest in Distributed Computing and Federated Learning, and some topi
 
 Currently, I am mostly interested in the allocation of Multi-machine parallelism in large-scale model processing.
 
+[www.nikolaselic.com](https://nikolaselic.com/)
+
 ### 🌏 Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=FF0080)](https://www.linkedin.com/in/n-selic/)
