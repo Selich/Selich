@@ -5,6 +5,6 @@ Research interest in Graph Neural Network, Privacy-Preserving ML and Natural Lan
 Currently, I am mostly interested in the allocation of Privacy-preserving Distributed Machine Learning and its use in Graph Neural Networks, Causal and LLM models
 
 
-[www.nikolaselic.com](https://nikolaselic.com/)
+[www.nikolaselic.me](https://nikolaselic.me/)
 
 
